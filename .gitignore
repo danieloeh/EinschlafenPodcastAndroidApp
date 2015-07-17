@@ -40,6 +40,4 @@ description
 *.odg#
 proguard
 *.DS_Store
-gradle.properties
-dep/AndroidSlidingUpPanel/library/libs
 *.keystore
